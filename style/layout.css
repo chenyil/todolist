@@ -36,18 +36,15 @@ label{
   word-wrap: break-word;
 }
 
-#newItem .modal-dialog{
-  width:75%;
-}
-
 .modal { 
   position: fixed; 
-  top: 3%; 
-  right: 3%; 
-  left: 3%; 
+  top: 5%; 
+  right: 5%; 
+  left: 5%;
   width: auto; 
   margin: 0; 
 }
+
 .modal-body { 
   height: 60%;
   max-height: 350px; 
