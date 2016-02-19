@@ -36,9 +36,9 @@ label{
   word-wrap: break-word;
 }
 
-/*#newItem .modal-dialog{
+#newItem .modal-dialog{
   width:75%;
-}*/
+}
 
 .modal { 
   position: fixed; 
